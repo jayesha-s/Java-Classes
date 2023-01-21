@@ -43,9 +43,9 @@ public class TimeClass {
         this.second = second;
         this.hour = hour;
 
-
-
     }
+
+    public void nextSecond
 
 
 }
