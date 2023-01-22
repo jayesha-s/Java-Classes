@@ -5,7 +5,7 @@ public class Main {
 
 // Test constructors and toString()
 
-        Time t1 = new Time(1, 2, 3);
+        TimeClass t1 = new TimeClass(1, 2, 3);
 
         System.out.println(t1);  // toString()
 
@@ -31,7 +31,7 @@ public class Main {
 
         // Test setTime()
 
-        t1.setTime(23, 59, 58);
+        t1.setTimeClass(23, 59, 58);
 
         System.out.println(t1);  // toString()
 

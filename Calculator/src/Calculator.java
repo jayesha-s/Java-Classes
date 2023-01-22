@@ -24,8 +24,27 @@ public class Calculator {
         this.num2 = num2;
     }
 
-    public int add(int num1,int num2){
-        return num1+num2;
+    public String add(int num1, int num2) {
+        int addition = num1+num2;
+        return "These two numbers, when added, result in: " + addition;
     }
 
+    public String subtract(int num1, int num2) {
+        int subtraction = num1-num2;
+        return "These two numbers, when subtracted, result in: " + subtraction;
+    }
+
+    public String multipy(int num1, int num2) {
+        int multiplication = num1*num2;
+        return "These two numbers, when multiplied, result in: " + multiplication;
+    }
+
+    public String divide(int num1, int num2) {
+        double division = num1/num2;
+        return "These two numbers, when divded, result in: " + division;
+    }
+
+
+
 }
+
