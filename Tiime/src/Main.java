@@ -3,10 +3,9 @@ public class Main {
 
         System.out.println("Hello world!");
 
+// Test constructors and toString()
 
-        // Test constructors and toString()
-
-        TimeClass t1 = new TimeClass(1, 2, 3);
+        Time t1 = new Time(1, 2, 3);
 
         System.out.println(t1);  // toString()
 
@@ -32,5 +31,27 @@ public class Main {
 
         // Test setTime()
 
+        t1.setTime(23, 59, 58);
+
+        System.out.println(t1);  // toString()
+
+
+
+        // Test nextSecond();
+
+        System.out.println(t1.nextSecond());
+
+        System.out.println(t1.nextSecond().nextSecond());
+
+
+
+        // Test previousSecond()
+
+        System.out.println(t1.previousSecond());
+
+        System.out.println(t1.previousSecond().previousSecond());
+
     }
+
+}
 }
