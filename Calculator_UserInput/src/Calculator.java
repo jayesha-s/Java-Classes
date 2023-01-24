@@ -1,4 +1,4 @@
-public class Calculator {
+public class Calculator{
 
     int num1;
     int num2;
@@ -40,7 +40,7 @@ public class Calculator {
     }
 
     public String divide(int num1, int num2) {
-        double division = num1/num2;
+        float division = num1/num2;
         return "These two numbers, when divded, result in: " + division;
     }
 

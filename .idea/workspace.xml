@@ -6,15 +6,23 @@
   <component name="ChangeListManager">
     <list default="true" id="9113637d-515f-4ee9-82a2-4709a4b0011b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculator/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/src/Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Calculator/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java-Classes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java-Classes.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tiime/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tiime/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Classes/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Classes/MainClass.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
